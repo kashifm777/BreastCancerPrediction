@@ -33,14 +33,17 @@ We tried Four Machine Learning Models and evaluated their performance with our B
 3. Gaussian Naive Bayes: Mean accuracy = 0.963223 & Std accuracy = 0.025463
 4. KNN', K-Nearest Neighbors: Mean accuracy = 0.969345 & Std accuracy = 0.016428
 
-## Test
+## Test Result
 Training shows that the Support Vector Machine model has the highest training accuracy. So we further tested our test dataset with SVC and the Test Accuracy was 0.9714285714285714 (97.14%)
 
 
-##Random Testing
+## Random Testing
+
 We provided a list of numbers as an input for nine features and it accurately predicted the class for breast cancer.
 
 ![Example Prediction for Benign!](results/benignPred.PNG "Benign Cancer")
+
+-----------------------------------------------------------------------------------
 
 ![Example Prediction for Malignant!](results/malignantPred.png "Malignant Cancer")
 
