@@ -1,0 +1,52 @@
+
+Model: CART
+Accuracy score: 0.9047619047619048
+Classification report:
+               precision    recall  f1-score   support
+
+           2       0.90      0.96      0.93       133
+           4       0.93      0.81      0.86        77
+
+    accuracy                           0.90       210
+   macro avg       0.91      0.88      0.89       210
+weighted avg       0.91      0.90      0.90       210
+
+
+Model: SVM
+Accuracy score: 0.9714285714285714
+Classification report:
+               precision    recall  f1-score   support
+
+           2       0.98      0.98      0.98       133
+           4       0.96      0.96      0.96        77
+
+    accuracy                           0.97       210
+   macro avg       0.97      0.97      0.97       210
+weighted avg       0.97      0.97      0.97       210
+
+
+Model: NB
+Accuracy score: 0.9523809523809523
+Classification report:
+               precision    recall  f1-score   support
+
+           2       0.96      0.96      0.96       133
+           4       0.94      0.94      0.94        77
+
+    accuracy                           0.95       210
+   macro avg       0.95      0.95      0.95       210
+weighted avg       0.95      0.95      0.95       210
+
+
+Model: KNN
+Accuracy score: 0.9571428571428572
+Classification report:
+               precision    recall  f1-score   support
+
+           2       0.96      0.97      0.97       133
+           4       0.95      0.94      0.94        77
+
+    accuracy                           0.96       210
+   macro avg       0.96      0.95      0.95       210
+weighted avg       0.96      0.96      0.96       210
+
