@@ -42,4 +42,18 @@ We provided a list of numbers as an input for nine features and it accurately pr
 ![Example Prediction for Benign!](/results/benigntPred.png "Benign Cancer")
 ![Example Prediction for Malignant!](/results/malignantPred.png "Malignant Cancer")
 
+## Summary
+
+We had Wisconsin Breast Cancer Database with 699 records on 11 columns. 
+
+Attributes at column indices 2 through 10 have been used to represent instances.
+   Each instance has one of 2 possible classes: benign or malignant.
+   These classes was included as attribute at column index 11
+
+Class distribution was: 
+   Benign: 458 (65.5%)
+   Malignant: 241 (34.5%)
+
+After processing data and obtaining analysis from it, we split the dataset into train-test of 70%-30%. we trained four models. By far, SVM model had highest accuracy for training and test data.
+
 [1]: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data "UCI Machine Learning Repository"
