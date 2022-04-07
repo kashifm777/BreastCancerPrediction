@@ -45,7 +45,7 @@ We provided a list of numbers as an input for nine features and it accurately pr
 
 -----------------------------------------------------------------------------------
 
-![Example Prediction for Malignant!](results/malignantPred.png "Malignant Cancer")
+![Example Prediction for Malignant!](results/malignantPred "Malignant Cancer")
 
 ## Conclusion
 
