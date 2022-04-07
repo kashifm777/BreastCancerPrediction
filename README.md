@@ -39,18 +39,21 @@ Training shows that the Support Vector Machine model has the highest training ac
 
 ## Random Testing
 
+
 We provided a list of numbers as an input for nine features and it accurately predicted the class for breast cancer.
 
-![Example Prediction for Benign!](/results/benignPred.PNG "Benign Cancer")
+![Example Prediction for Benign!](results/benignPred.PNG "Benign Cancer")
 
 -----------------------------------------------------------------------------------
 
-![Example Prediction for Malignant!](/results/malignantPred.png "Malignant Cancer")
+![Example Prediction for Malignant!](results/malignantPred.png "Malignant Cancer")
+
 
 ## Confusion Matrix
 ![Confusion Matrix!](results/cm.png "Confusion Matrix")
 
 ## Conclusion
+
 We had Wisconsin Breast Cancer Database with 699 records on 11 columns. 
 
 Attributes at column indices 2 through 10 have been used to represent instances.
