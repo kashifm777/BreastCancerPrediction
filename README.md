@@ -43,12 +43,12 @@ Training shows that the Support Vector Machine model has the highest training ac
 
 We provided a list of numbers as an input for nine features and it accurately predicted the class for breast cancer.
 
-![Example Prediction for Benign](results/benignPred.PNG "Benign Cancer")\
-![Example Prediction for Malignant](results/malignantPred.png "Malignant Cancer")
+![Example Prediction for Benign](results/benignPred.png)
+![Example Prediction for Malignant](results/malignantPred.png)
 
 ## Confusion Matrix
 Confusion Matrix from our Validation is:\
-![Confusion Matrix!](results/cm.png "Confusion Matrix")
+![Confusion Matrix!](results/cm.png)
 
 ## Conclusion
 
@@ -65,4 +65,4 @@ Class distribution was:
 After processing data and obtaining analysis from it, we split the dataset into train-test of **70%-30%**. we trained four models. By far, **SVM** model had highest accuracy for training and test data.
 
 
-[1]: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data "UCI Machine Learning Repository"
+[1]: https://archive.ics.uci.edu/ml/machine-learning-databasesbreast-cancer-wisconsin/breast-cancer-wisconsin.data "UCI Machine Learning Repository"
