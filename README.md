@@ -43,12 +43,14 @@ Training shows that the Support Vector Machine model has the highest training ac
 
 We provided a list of numbers as an input for nine features and it accurately predicted the class for breast cancer.
 
-![Example Prediction for Benign](results/benignPred.png)
-![Example Prediction for Malignant](results/malignantPred.png)
+![Example Prediction for Benign](results/benignPred.PNG)
+
+![Example Prediction for Malignant](results/malignantPred.PNG)
 
 ## Confusion Matrix
-Confusion Matrix from our Validation is:\
-![Confusion Matrix!](results/cm.png)
+Confusion Matrix from our Validation is:
+
+![Confusion Matrix!](results/cm.PNG)
 
 ## Conclusion
 
